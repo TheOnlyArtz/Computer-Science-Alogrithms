@@ -1,7 +1,7 @@
 ### Euclidean algorithm
 An algorithm which meant to calculate square's maximum size which will fit in a rectangle<br>
 While trying to solve this algorithm I straight away thought about common dividers<br>
-And I've said to my self that I must test it...<br>
+And I wanted to test it to be sure.<br>
 I took a 48x20 rectangle and started thinking
 <div align="center">
     <p><img src="https://image.prntscr.com/image/tH1KPqnxSs6OgP0c4-wn6g.png"></p>
