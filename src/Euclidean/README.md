@@ -30,7 +30,8 @@ So it's very simple:<br>
 <div align="center">
     <p><img src="https://image.prntscr.com/image/CQ09x8PASz6hvN55tBtgGA.png"></p>
 </div>
-#### The End.
+
+#### The End
 Code can be viewed in [here](https://github.com/TheOnlyArtz/Computer-Science-Alogrithms/blob/master/src/Euclidean/Euclidean.py)
 
 ### Examples for different rectangles
