@@ -6,9 +6,9 @@ I took a 48x20 rectangle and started thinking
 <div align="center">
     <img src="https://image.prntscr.com/image/tH1KPqnxSs6OgP0c4-wn6g.png">
 </div>
-The maximum divider for both numbers is `4`, right? `20 / 4 = 5`, `48 / 4 = 12`<br>
+The maximum divider for both numbers is `4`, right? `20 / 4 = 5`, `48 / 4 = 12`
 I started filling up my rectangle with many 4x4 squares.
 <div align="center">
     <img src="https://image.prntscr.com/image/uKcj95xzQGGsfqAk-QItRg.png">
 </div>
-**WOAH** They're perfect!
+Woah! They're perfect!
